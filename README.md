@@ -41,13 +41,13 @@ Each window represents a short segment of muscle activity
 
 For each window and each channel, the following time-domain features are extracted:
 
-Root Mean Square (RMS)
+a. Root Mean Square (RMS)
 
-Mean Absolute Value (MAV)
+b. Mean Absolute Value (MAV)
 
-Waveform Length
+c. Waveform Length
 
-Zero Crossings
+d. Zero Crossings
 
 📐 Total features per window:
 32 channels × 4 features = 128 features
