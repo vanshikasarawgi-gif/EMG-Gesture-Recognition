@@ -1,0 +1,7 @@
+numpy
+matplotlib
+wfdb
+scikit-learn
+jupyter
+ipykernel
+seaborn
